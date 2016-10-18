@@ -1,22 +1,22 @@
-#Workshops i CP Hvidovre
+# Workshops i CP Hvidovre
 ----
-##Scratch
-*Hour of Code
-*Spil piraterne har lyst til
-*Spil de frivillige finder på
+## Scratch
+* Hour of Code
+* Spil piraterne har lyst til
+* Spil de frivillige finder pÃ¥
 
-'''javascript
+```javascript
 	metode(1,2);
-'''
+```
 
 
-##mBot
-*introduktion til _Scratch_ og *robotter* generelt.
+## mBot
+* introduktion til _Scratch_ og *robotter* generelt.
 	* evt. Hour of Code til nye
 
-##Blender
-*Lav et bordben
-*Lav en Poke ball
+## Blender
+* Lav et bordben
+* Lav en Poke ball
 
 link til [Blender] (https://www.blender.org/)
 
