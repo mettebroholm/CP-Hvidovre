@@ -12,6 +12,9 @@
 
 ## mBot
 * introduktion til _Scratch_ og *robotter* generelt.
+* Line Follower
+* Fjernstyret robot
+* Selvkørende robot, der undgår vægge.
 	* evt. Hour of Code til nye
 
 ## Blender
@@ -20,5 +23,5 @@
 
 link til [Blender] (https://www.blender.org/)
 
-billede af ![Gr�skar lavet i Blender] (blender.jpg)
+billede af ![Græskar lavet i Blender] (blender.jpg)
 
