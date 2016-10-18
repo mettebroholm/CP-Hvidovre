@@ -18,5 +18,7 @@
 *Lav et bordben
 *Lav en Poke ball
 
+link til [Blender] (https://www.blender.org/)
 
+billede af [Græskar lavet i Blender] (blender.jpg)
 
